@@ -25,8 +25,15 @@ Navigate until ricas-quarkus root and run:
 
 ## Testing
 Type the follow URL on browser
-http://localhost:8080/soccerPlayers.html
+- ##### Interactive web page
+    - http://localhost:8080/soccerPlayers.html
+- ###### Rest-json
+http://localhost:8080/soccerPlayers
+- ###### Output: 
+    [{"player":"Neymar Jr","team":"Paris Saint-Germain"},{"player":"Cristiano Ronaldo","team":"Juventus"},{"player":"Lionel Messi","team":"Barcelona"},{"player":"Steven Gerrard","team":"Liverpool"}]
 
+Others verbs
  - [POST] /soccerPlayers
  - [DELETE] /soccerPlayers
  - [GET] /soccerPlayers 
+
