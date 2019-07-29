@@ -17,7 +17,10 @@ https://imagizer.imageshack.com/img922/6096/WLCXll.png)
 ## Running
 Navigate until ricas-quarkus root and run:
 - ./mvnw compile quarkus:dev
-  - ###### Note: the above command i'll start the server on prot 8080.
+    - ###### Note: To achieve performance and effect when using quarkus, use a GraalVM instead of jvm. Change your JAVA_HOME to use graalVM.
+    
+![Quick Start quarkus](https://imagizer.imageshack.com/img922/4744/eddw0N.png)
+    
 
 
 ## Testing
