@@ -1,4 +1,4 @@
-package org.acme.rest.json;
+package br.com.ricas.quarkus.test;
 
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.CoreMatchers.is;

@@ -1,4 +1,4 @@
-package org.acme.rest.json;
+package br.com.ricas.quarkus.test;
 
 import io.quarkus.test.junit.SubstrateTest;
 
