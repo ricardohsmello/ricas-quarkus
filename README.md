@@ -14,7 +14,6 @@ https://imagizer.imageshack.com/img922/6096/WLCXll.png)
 - Angular
 
 # Usage
-## Running
 Navigate until ricas-quarkus root and run:
 - ./mvnw compile quarkus:dev
     - ###### Note: To achieve performance and effect when using quarkus, use a GraalVM instead of jvm. Change your JAVA_HOME to use graalVM.
@@ -23,7 +22,7 @@ Navigate until ricas-quarkus root and run:
     
 
 
-## Testing
+## Running
 Type the follow URL on browser
 - ##### Interactive web page
     - http://localhost:8080/soccerPlayers.html
