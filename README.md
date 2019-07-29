@@ -30,10 +30,7 @@ Type the follow URL on browser
 - ##### Rest-json
     - http://localhost:8080/soccerPlayers    
     [{"player":"Neymar Jr","team":"Paris Saint-Germain"},{"player":"Cristiano Ronaldo","team":"Juventus"},{"player":"Lionel   Messi","team":"Barcelona"},{"player":"Steven Gerrard","team":"Liverpool"}]
-
-
-    $ sudo subscription-manager list --available --all
-Others verbs
+- ##### Others verbs
  - [POST] /soccerPlayers
  - [DELETE] /soccerPlayers
  - [GET] /soccerPlayers 
