@@ -22,7 +22,7 @@ Navigate until ricas-quarkus root and run:
 Type the follow URL on browser
 - ##### Interactive web page
 ```
-    - http://localhost:8080/soccerPlayers.html
+    - http://localhost:8080/soccerplayers.html
  ``` 
  ![Quick Start quarkus](
 https://imagizer.imageshack.com/img922/6096/WLCXll.png)
